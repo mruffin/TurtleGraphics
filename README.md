@@ -14,6 +14,7 @@ up or down. Assume that the turtle always starts at position (0, 0) of the floor
 set of turtle commands your application must process are shown below.
 
 Commands|Command Meanings 
+
 1       Pen up
 
 2       Pen down
